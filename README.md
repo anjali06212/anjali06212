@@ -23,18 +23,6 @@ Developing an interactive Result Analysis Dashboard in Power BI to analyze stude
 -  Interactive charts, histograms, and drill-down tables
 -  Dynamic filtering with slicers and cross-visual interactions
 
-### Tech Stack
-- Power BI
-- DAX
-- Power Query
-- Excel
-
-Currently focused on improving dashboard interactivity, optimizing DAX calculations, and enhancing visualization design for better academic performance insights.
--  Improving my skills in:
-  - Data Analytics
-  - Machine Learning
-  - SQL & Visualization Tools
-
 ---
 
 ##  Tools & Technologies
