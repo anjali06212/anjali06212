@@ -1,5 +1,49 @@
-#  About Me:
-# Hi there, I'm Anjali DS <br><br>##  About Me<br>-  B.Tech CSE (AI) student at Amrita Vishwa Vidyapeetham, Kollam<br>-  Interested in Data Analytics, Machine Learning, and AI<br>-  Exploring Deep Learning, Computer Vision, and NLP systems<br>-  I enjoy building projects that combine data, logic, and real-world impact<br><br>---<br><br>##  Currently Working On<br>Currently Working On: Student Result Analysis Dashboard using Power BI<br><br>Developing an interactive Result Analysis Dashboard in Power BI to analyze student academic performance using DAX measures, Power Query transformations, and dynamic visualizations. The project includes KPI cards, subject-wise analysis, topper tracking, pass/fail insights, histograms, ranking systems, and interactive slicers for filtering by class, gender, and subjects.<br><br>### Key Features<br>- Overall performance analytics dashboard<br>-  Advanced DAX measures for KPIs and rankings<br>-  Data transformation using Power Query (Unpivoting)<br>-  Subject-wise performance analysis<br>-  Interactive charts, histograms, and drill-down tables<br>-  Dynamic filtering with slicers and cross-visual interactions<br><br>---<br><br>##  Tools & Technologies<br><br>### Languages<br>- Python<br>- SQL<br>- HTML<br>- CSS<br><br>### Data & ML<br>- Pandas<br>- NumPy<br>- Scikit-learn<br>- TensorFlow<br>- OpenCV<br>- PySpark<br><br>### Databases<br>- MySQL<br>- MongoDB<br>- PostgreSQL<br><br>### Tools<br>-  Power BI<br>- Excel<br>- Google Colab<br>- VS Code<br><br>---<br><br>##  Featured Interests<br>- Machine Learning<br>- Data Analytics<br>- Data Visualization<br>- Computer Vision<br>- NLP Systems<br><br>---<br><br>##  Reach Me<br>- Email: anjalids989@gmail.com<br>-  LinkedIn:https://www.linkedin.com/in/anjali-d-s-504209323<br>-  GitHub: https://github.com/anjali06212
+# Hi there, I'm Anjali DS
+
+## About Me
+
+- B.Tech CSE (AI) student at Amrita Vishwa Vidyapeetham, Kollam
+- Interested in Data Analytics, Machine Learning, and AI
+- Exploring Deep Learning, Computer Vision, and NLP systems
+- I enjoy building projects that combine data, logic, and real-world impact
+
+
+## Currently Working On
+
+Student Result Analysis Dashboard using Power BI
+
+Developing an interactive Result Analysis Dashboard in Power BI to analyze student academic performance using DAX measures, Power Query transformations, and dynamic visualizations.
+
+### Key Features
+
+- Overall performance analytics dashboard
+- Advanced DAX measures for KPIs and rankings
+- Data transformation using Power Query
+- Subject-wise performance analysis
+- Interactive charts and histograms
+- Dynamic filtering with slicers
+
+
+## Tools & Technologies
+
+### Languages
+- Python
+- SQL
+- HTML
+- CSS
+
+### Data & ML
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- OpenCV
+- PySpark
+
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
 
 
 ##  Socials:
